@@ -11,3 +11,5 @@ comments: false
 
 This app was the penultimate project for Prime Academy - a full-stack, full CRUD app deployed via Heroku. Now, before you get any ideas, in terms of shady-ness, the people who enjoy locksport (the hobby of lockpicking) are generally much closer to Rubik's Cube enthusiasts than they are to the subjects of breaking-and-entering investigations.  This app allows a hobbyist lockpicker to track their lock collection, log lockpicking performance, and view their progress over time via sortable tables and charts. The app uses React, Express, and PostgreSQL.
 
+https://intense-brushlands-45030.herokuapp.com/
+
