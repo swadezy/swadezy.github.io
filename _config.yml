@@ -16,7 +16,7 @@ author: Sean Wade
 navbar-links:
   About Me: "aboutme"
   My Projects:
-    - PickLogger: "https://www.google.com/"
+    - PickLogger: "https://intense-brushlands-45030.herokuapp.com/"
     - Imparatif: "https://www.google.com/"
 
 # --- Logo --- #
@@ -41,7 +41,7 @@ social-network-links:
   email: "smwade1115@gmail.com"
   facebook: seanmwade
   github: swadezy
-  linkedin: sean-wade
+  linkedin: sean-wade-960b2992
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
