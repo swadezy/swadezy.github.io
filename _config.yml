@@ -6,25 +6,24 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Sean Wade's Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Sean Wade
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Projects:
+    - PickLogger: "https://www.google.com/"
+    - Imparatif: "https://www.google.com/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-pic.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,15 +38,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
+  email: "smwade1115@gmail.com"
+  facebook: seanmwade
+  github: swadezy
+  linkedin: sean-wade
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -65,7 +59,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -96,15 +89,15 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#1565c0"
+navbar-text-col: "#e8eaf6"
+navbar-border-col: "#003c8f"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#5e92f3"
+footer-text-col: "#e8eaf6"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
